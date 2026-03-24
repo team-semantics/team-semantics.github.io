@@ -1,0 +1,5 @@
+_reference/
+course-extracted.txt
+course-streams.txt
+dump_pdf_streams.ps1
+extract_pdf_text.ps1
